@@ -1,0 +1,2 @@
+# templanteminima
+LAYOUT/TEMPLATE
